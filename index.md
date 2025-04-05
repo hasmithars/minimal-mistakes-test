@@ -4,6 +4,8 @@ author_profile: true
 title: "Hello!"
 ---
 
+<img src="/assets/images/chicago_blazer.webp" alt="Description of image" style="float: right; width: 300px; margin-left: 10px;">
+
 I am a Geospatial Project Scientist, currently based out of Northwest Ohio. Before moving to Ohio in 2021, I lived in Boston where I discovered my passion for environmental remote sensing (in addition to mixed-used neighborhoods and public transit but that is a conversation for another time).
 
 I hope to use this website to document some of my 5 - 9 projects. Most of the endeavors displayed here will involve some confluence of GIS and Remote Sensing, but sometimes I may sneak in a post about a perfect loaf of crusty sourdough or a soft woven blanket that took months to crochet (even though the YouTube video said it should only take a few hours).
