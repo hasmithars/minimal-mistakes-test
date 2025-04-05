@@ -10,4 +10,4 @@ I hope to use this website to document some of my 5 - 9 projects. Most of the en
 
 My other hobbies include reading for long hours - particularly fiction and fantasy with a dash of the occasional non-fiction - and then yoga, in that order, to shake off the stiffness from reading for long hours.
 
-I hope you enjoy exploring my portfolio and learning more about my work and interests.
+I hope you enjoy exploring my portfolio and learning more about my work and interests. If you like anything on here, please make my day and bring it up when you talk to me! :)
