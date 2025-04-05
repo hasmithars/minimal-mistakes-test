@@ -2,6 +2,8 @@
 layout: home
 author_profile: true
 title: "Hello!"
+header:
+  image: /assets/images/chicago_blazer.webp
 ---
 
 <img src="/assets/images/chicago_blazer.webp" alt="Description of image" style="float: right; width: 300px; margin-left: 10px;">
