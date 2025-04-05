@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Hasmitha Rayasam"
-  avatar           : "https://github.com/hasmithars/resume/blob/master/assets/img/profilepic.webp"
+  avatar           : "assets/images/boston_bench.webp"
   bio              : "Remote Sensing & GIS Scientist. Boston University."
   location         : "Perrysburg, Ohio"
   email            : "hasmitha.rs@gmail.com"
