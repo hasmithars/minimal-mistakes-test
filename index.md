@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 title: "Hello!"
 header:
-  image: /assets/images/577_library.webp
+  image: /assets/images/577_library_crop.webp
   image_alt: "Me and library"
   image_style: "width: 1280px;"
 ---
