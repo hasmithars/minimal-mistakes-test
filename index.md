@@ -3,10 +3,10 @@ layout: home
 author_profile: true
 title: "Hello!"
 header:
-  image: /assets/images/chicago_blazer.webp
+  image: /assets/images577_library.webp
+  image_alt: "Me in my favourite place"
+  image_style: "width: 1280px;"
 ---
-
-<img src="/assets/images/chicago_blazer.webp" alt="Description of image" style="float: right; width: 300px; margin-left: 10px;">
 
 I am a Geospatial Project Scientist, currently based out of Northwest Ohio. Before moving to Ohio in 2021, I lived in Boston where I discovered my passion for environmental remote sensing (in addition to mixed-used neighborhoods and public transit but that is a conversation for another time).
 
