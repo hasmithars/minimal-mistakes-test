@@ -3,16 +3,16 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #ffffff !default; // Lighten the background color
-$text-color: #000000 !default; // Darken the text color
-$muted-text-color: #666666 !default; // Ensure sufficient contrast for muted text
+$background-color: #f3f3f3 !default;
+$text-color: #343434 !default;
+$muted-text-color: #8e8b82 !default;
 $primary-color: #343434 !default;
 $border-color: #e9dcbe !default;
 $footer-background-color: #e9dcbe !default;
 $link-color: #343434 !default;
-$masthead-link-color: #7FA093 !default;
-$masthead-link-color-hover: #7FA093 !default;
-$navicon-link-color-hover: mix(#fff, #7FA093, 80%) !default;
+$masthead-link-color: #3D725D !default;
+$masthead-link-color-hover: #3D725D !default;
+$navicon-link-color-hover: mix(#fff, #3D725D, 80%) !default;
 
 /* dirt syntax highlighting (base16) */
 $base00: #231e18 !default;
