@@ -7,3 +7,24 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom CSS */
+.masthead,
+#masthead,
+#site-nav,
+#site-nav.masthead,
+.greedy-nav,
+.greedy-nav__container {
+  background-color: #5C8876 !important; /* theme4-dim: darker mint green */
+}
+
+.masthead__menu-item a,
+.greedy-nav a {
+  color: #fffdfb !important; /* Site background color */
+}
+
+.masthead__menu-item a:hover,
+.greedy-nav a:hover {
+  color: #fffdfb !important; /* Keep same color on hover */
+  text-decoration: none !important;
+}
